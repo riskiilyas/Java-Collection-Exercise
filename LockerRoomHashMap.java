@@ -23,5 +23,3 @@ public class LockerRoomHashMap extends HashMap<String, String> {
         }
     }
 }
-    
-}
